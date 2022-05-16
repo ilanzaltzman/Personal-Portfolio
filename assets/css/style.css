@@ -654,38 +654,27 @@ button {
   width: 75%;
 }
 .skills__css {
-  width: 60%;
+  width: 70%;
 }
 .skills__js {
-  width: 70%;
+  width: 60%;
 }
-.skills__java {
-  width: 40%;
-}
-.skills__react {
+.skills__vue {
   width: 30%;
 }
-
-.skills__php {
-  width: 80%;
-}
-.skills__node {
-  width: 70%;
-}
-.skills__firebase {
-  width: 90%;
-}
-.skills__python {
+.skills__amadeus {
   width: 50%;
 }
-
-.skills__figma {
+.skills__sabre {
+  width: 40%;
+}
+.skills__canva {
   width: 55%;
 }
 .skills__sketch {
   width: 90%;
 }
-.skills__photoshop {
+.skills__excel {
   width: 70%;
 }
 
