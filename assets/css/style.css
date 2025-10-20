@@ -656,22 +656,18 @@ button {
 .skills__inglés {
   width: 100%;
 }
-.skills__amadeus__y__sabre {
-  width: 50%;
-}
-.skills__capcut {
+.skills__excel {
   width: 100%;
 }
 .skills__canva {
   width: 100%;
 }
-.skills__sketch {
-  width: 90%;
-}
-.skills__excel {
+.skills__amadeus__y__sabre {
   width: 100%;
 }
-
+.skills__capcut {
+  width: 90%;
+}
 .skills__close .skills__lists {
   height: 0;
   overflow: hidden;
