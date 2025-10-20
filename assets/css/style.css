@@ -651,10 +651,10 @@ button {
 }
 
 .skills__html {
-  width: 75%;
+  width: 100%;
 }
 .skills__css {
-  width: 70%;
+  width: 100%;
 }
 .skills__js {
   width: 60%;
